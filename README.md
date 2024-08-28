@@ -35,7 +35,6 @@ You are working on a Laravel application that manages customers, their orders, a
 - Consideration for scalability and performance.
 
 ---
-f
 This test is designed to evaluate your ability to implement complex search functionality in Laravel, optimizing for performance and adhering to best practices.
 
 
